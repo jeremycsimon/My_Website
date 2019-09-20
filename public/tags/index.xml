@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Jeremy C. Simon</title>
-    <link>https://jeremycsimon.xyz/tags/</link>
-      <atom:link href="https://jeremycsimon.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jeremycsimon.xyz/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://jeremycsimon.xyz/tags/</link>
+      <link>/tags/</link>
     </image>
     
     <item>
       <title>Cross-Group Interaction</title>
-      <link>https://jeremycsimon.xyz/tags/cross-group-interaction/</link>
+      <link>/tags/cross-group-interaction/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/tags/cross-group-interaction/</guid>
+      <guid>/tags/cross-group-interaction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demographic Ignorance</title>
-      <link>https://jeremycsimon.xyz/tags/demographic-ignorance/</link>
+      <link>/tags/demographic-ignorance/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/tags/demographic-ignorance/</guid>
+      <guid>/tags/demographic-ignorance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpersonal Dehumanization</title>
-      <link>https://jeremycsimon.xyz/tags/interpersonal-dehumanization/</link>
+      <link>/tags/interpersonal-dehumanization/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/tags/interpersonal-dehumanization/</guid>
+      <guid>/tags/interpersonal-dehumanization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Categorization</title>
-      <link>https://jeremycsimon.xyz/tags/multiple-categorization/</link>
+      <link>/tags/multiple-categorization/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/tags/multiple-categorization/</guid>
+      <guid>/tags/multiple-categorization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source Themes</title>
-      <link>https://jeremycsimon.xyz/tags/source-themes/</link>
+      <link>/tags/source-themes/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/tags/source-themes/</guid>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     
