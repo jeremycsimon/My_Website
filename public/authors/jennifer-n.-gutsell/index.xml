@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennifer N. Gutsell | Jeremy C. Simon</title>
+    <link>/authors/jennifer-n.-gutsell/</link>
+      <atom:link href="/authors/jennifer-n.-gutsell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jennifer N. Gutsell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jennifer N. Gutsell</title>
+      <link>/authors/jennifer-n.-gutsell/</link>
+    </image>
+    
+    <item>
+      <title>Effects of minimal grouping on implicit prejudice, infrahumanization, and neural processing despite orthogonal social categorizations</title>
+      <link>/publication/gm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gm/</guid>
+      <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/fx86p/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clarifying the relationship between trait empathy and action-based resonance indexed by EEG mu-rhythm suppression.</title>
+      <link>/publication/iri/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/iri/</guid>
+      <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/95zf8/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
