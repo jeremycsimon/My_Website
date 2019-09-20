@@ -1,0 +1,11 @@
+# Font style metadata
+name = "My_Fonts"
+
+# Optional Google font URL
+google_fonts = "Lato:400,700|Open+Sans|Squada+One"
+
+# Font families
+heading_font = "Lato"
+body_font = "Open Sans"
+nav_font = "Lato"
+mono_font = "Squada One"
