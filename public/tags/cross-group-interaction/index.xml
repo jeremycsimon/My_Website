@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cross-Group Interaction | Jeremy C. Simon</title>
-    <link>https://jeremycsimon.xyz/tags/cross-group-interaction/</link>
-      <atom:link href="https://jeremycsimon.xyz/tags/cross-group-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/cross-group-interaction/</link>
+      <atom:link href="/tags/cross-group-interaction/index.xml" rel="self" type="application/rss+xml" />
     <description>Cross-Group Interaction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jeremycsimon.xyz/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Cross-Group Interaction</title>
-      <link>https://jeremycsimon.xyz/tags/cross-group-interaction/</link>
+      <link>/tags/cross-group-interaction/</link>
     </image>
     
     <item>
       <title>Cross-Group Interaction</title>
-      <link>https://jeremycsimon.xyz/project/internal-projects/cross-race-interaction/</link>
+      <link>/project/internal-projects/cross-race-interaction/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/project/internal-projects/cross-race-interaction/</guid>
+      <guid>/project/internal-projects/cross-race-interaction/</guid>
       <description>&lt;p&gt;Status: nearing the end of data collection!&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;re studying whether interactions between strangers differ as a function of race. By comparing pairs of White participants with White/Black pairs we can investigate the effects of interracial interactions on a number of measures of understanding and empathy. Our dependent variables include action coordination, empathic accuracy, and dehumanization, plus EEG measures including mu suppression and neural synchrony. We hope to test whether racial differences affect empathy and communication, and whether these differences are reflected in the brain.&lt;/p&gt;

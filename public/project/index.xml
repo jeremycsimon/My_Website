@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Jeremy C. Simon</title>
-    <link>https://jeremycsimon.xyz/project/</link>
-      <atom:link href="https://jeremycsimon.xyz/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jeremycsimon.xyz/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://jeremycsimon.xyz/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Cross-Group Interaction</title>
-      <link>https://jeremycsimon.xyz/project/internal-projects/cross-race-interaction/</link>
+      <link>/project/internal-projects/cross-race-interaction/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/project/internal-projects/cross-race-interaction/</guid>
+      <guid>/project/internal-projects/cross-race-interaction/</guid>
       <description>&lt;p&gt;Status: nearing the end of data collection!&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;re studying whether interactions between strangers differ as a function of race. By comparing pairs of White participants with White/Black pairs we can investigate the effects of interracial interactions on a number of measures of understanding and empathy. Our dependent variables include action coordination, empathic accuracy, and dehumanization, plus EEG measures including mu suppression and neural synchrony. We hope to test whether racial differences affect empathy and communication, and whether these differences are reflected in the brain.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Demographic Ignorance</title>
-      <link>https://jeremycsimon.xyz/project/internal-projects/demographic-ignorance/</link>
+      <link>/project/internal-projects/demographic-ignorance/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/project/internal-projects/demographic-ignorance/</guid>
+      <guid>/project/internal-projects/demographic-ignorance/</guid>
       <description>&lt;p&gt;Status: under review!&lt;/p&gt;
 
 &lt;p&gt;This line of work tests whether changing Americans&amp;rsquo; perceptions of their country&amp;rsquo;s diversity affects their attitudes toward minorities. As you can see above, we&amp;rsquo;ve been surprised to find that making people think minorities make up a larger portion of the population actually decreases their implicit (and explicit) prejudice. It also decreases their conservatism. While lots of recent work has shown that learning that the United States is becoming more diverse makes White Americans more prejudiced and conservative, we show that learning that the United States is already diverse decreases these attitudes.&lt;/p&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Interpersonal Dehumanization</title>
-      <link>https://jeremycsimon.xyz/project/internal-projects/interpersonal-dehumanization/</link>
+      <link>/project/internal-projects/interpersonal-dehumanization/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/project/internal-projects/interpersonal-dehumanization/</guid>
+      <guid>/project/internal-projects/interpersonal-dehumanization/</guid>
       <description>&lt;p&gt;Status: planning follow-up. Look for my poster at SPSP 2020!&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s well established that people often see other groups as less human than their own. But this has hardly been tested using individual members of other groups. Our question is whether group causes of dehumanization carry over to individuals, and whether they interact with other potential sources of dehumanization. We&amp;rsquo;ve found that simple trait descriptions can make our targets less human, and that this predicts less attribution of pain (above), greater punishment, and more painful medical decision-making. However, targets&amp;rsquo; race has no effect. We are planning to follow up to learn more about how individual and group sources of dehumanization interact.&lt;/p&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Multiple Categorization</title>
-      <link>https://jeremycsimon.xyz/project/internal-projects/multiple-categorization/</link>
+      <link>/project/internal-projects/multiple-categorization/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/project/internal-projects/multiple-categorization/</guid>
+      <guid>/project/internal-projects/multiple-categorization/</guid>
       <description>&lt;p&gt;Status: in prep.&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;ve been using Representational Similarity Analysis to test whether we can decode the group identity of multiply-categorized targets. Participants viewed videos of minimal in-group and out-group members who were also racial in-group or out-group members. We&amp;rsquo;ve found that we can easily decode either racial or minimal group identity from their EEG, suggesting that both categories are simultaneous represented. We have yet to find a representational structure combining both categories.The goal of the work is to test how the brain differentiates partial from full in-group and out-group members.&lt;/p&gt;

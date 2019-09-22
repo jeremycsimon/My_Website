@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Jeremy C. Simon</title>
-    <link>https://jeremycsimon.xyz/publication_types/2/</link>
-      <atom:link href="https://jeremycsimon.xyz/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jeremycsimon.xyz/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>2</title>
-      <link>https://jeremycsimon.xyz/publication_types/2/</link>
+      <link>/publication_types/2/</link>
     </image>
     
     <item>
       <title>Effects of minimal grouping on implicit prejudice, infrahumanization, and neural processing despite orthogonal social categorizations</title>
-      <link>https://jeremycsimon.xyz/publication/gm/</link>
+      <link>/publication/gm/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/publication/gm/</guid>
+      <guid>/publication/gm/</guid>
       <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/fx86p/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Clarifying the relationship between trait empathy and action-based resonance indexed by EEG mu-rhythm suppression.</title>
-      <link>https://jeremycsimon.xyz/publication/iri/</link>
+      <link>/publication/iri/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/publication/iri/</guid>
+      <guid>/publication/iri/</guid>
       <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/95zf8/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

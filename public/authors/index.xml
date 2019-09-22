@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Jeremy C. Simon</title>
-    <link>https://jeremycsimon.xyz/authors/</link>
-      <atom:link href="https://jeremycsimon.xyz/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jeremycsimon.xyz/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://jeremycsimon.xyz/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title>Jennifer N. Gutsell</title>
-      <link>https://jeremycsimon.xyz/authors/jennifer-n.-gutsell/</link>
+      <link>/authors/jennifer-n.-gutsell/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/authors/jennifer-n.-gutsell/</guid>
+      <guid>/authors/jennifer-n.-gutsell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeremy C. Simon</title>
-      <link>https://jeremycsimon.xyz/authors/jeremy-c.-simon/</link>
+      <link>/authors/jeremy-c.-simon/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/authors/jeremy-c.-simon/</guid>
+      <guid>/authors/jeremy-c.-simon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alek Kopulsky</title>
-      <link>https://jeremycsimon.xyz/authors/alek-kopulsky/</link>
+      <link>/authors/alek-kopulsky/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/authors/alek-kopulsky/</guid>
+      <guid>/authors/alek-kopulsky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kristiana M. Hubley</title>
-      <link>https://jeremycsimon.xyz/authors/kristiana-m.-hubley/</link>
+      <link>/authors/kristiana-m.-hubley/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/authors/kristiana-m.-hubley/</guid>
+      <guid>/authors/kristiana-m.-hubley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marissa A. DiGirolamo</title>
-      <link>https://jeremycsimon.xyz/authors/marissa-a.-digirolamo/</link>
+      <link>/authors/marissa-a.-digirolamo/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/authors/marissa-a.-digirolamo/</guid>
+      <guid>/authors/marissa-a.-digirolamo/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jeremycsimon.xyz/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a fifth-year PhD student in Psychology at Brandeis University. I work with Dr. Jennifer Gutsell in the &lt;a href=&#34;https://www.brandeis.edu/psychology/gutsell/&#34; target=&#34;_blank&#34;&gt;Social Interaction and Motivation lab&lt;/a&gt;, where I use a variety of methods including electroencephalography (EEG), traditional psychological questionnaires, implicit measures, and structural and hierarchical modeling to study group biases and dehumanzation.&lt;/p&gt;
 
 &lt;p&gt;I previously worked at &lt;a href=&#34;https://www.facinghistory.org&#34; target=&#34;_blank&#34;&gt;Facing History and Ourselves&lt;/a&gt;, and am still interested in teaching about and preventing atrocities. When not researching or teaching, I do other things, like &lt;a href=&#34;https://www.youtube.com/user/HarvardVoiceLab&#34; target=&#34;_blank&#34;&gt;singing&lt;/a&gt;.&lt;/p&gt;
