@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marissa A. DiGirolamo | Jeremy C. Simon</title>
-    <link>/authors/marissa-a.-digirolamo/</link>
-      <atom:link href="/authors/marissa-a.-digirolamo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jeremycsimon.xyz/authors/marissa-a.-digirolamo/</link>
+      <atom:link href="https://jeremycsimon.xyz/authors/marissa-a.-digirolamo/index.xml" rel="self" type="application/rss+xml" />
     <description>Marissa A. DiGirolamo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://jeremycsimon.xyz/img/icon-192.png</url>
       <title>Marissa A. DiGirolamo</title>
-      <link>/authors/marissa-a.-digirolamo/</link>
+      <link>https://jeremycsimon.xyz/authors/marissa-a.-digirolamo/</link>
     </image>
     
     <item>
       <title>Clarifying the relationship between trait empathy and action-based resonance indexed by EEG mu-rhythm suppression.</title>
-      <link>/publication/iri/</link>
+      <link>https://jeremycsimon.xyz/publication/iri/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/iri/</guid>
+      <guid>https://jeremycsimon.xyz/publication/iri/</guid>
       <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/95zf8/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
