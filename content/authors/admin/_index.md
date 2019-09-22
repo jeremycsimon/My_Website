@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate in Social Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -20,15 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include dehumanization, intergroup bias, and neural synchrony.
 
-
-#education:
-#  courses:
-#  - institution: Brandeis University
-#    degree: PhD, expected 2020
-#  - institution: Brandeis University
-#    degree: Master of Arts, 2017
-#  - institution: Amherst College
-#    degree: Bachelor of Arts, History and French, 2009
+education:
+  courses:
+  - course: PhD in Psychology
+    institution: Brandeis University
+    year: expected 2020
+  - course: Masters in Psychology
+    institution: Brandeis University
+    year: 2017
+  - course: BA in History and French
+    institution: Amherst College
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -72,4 +74,4 @@ user_groups:
 
 I am a fifth-year PhD student in Psychology at Brandeis University. I work with Dr. Jennifer Gutsell in the [Social Interaction and Motivation lab](https://www.brandeis.edu/psychology/gutsell/), where I use a variety of methods including electroencephalography (EEG), traditional psychological questionnaires, implicit measures, and structural and hierarchical modeling to study group biases and dehumanzation.  
   
-When not researching or teaching, I do other things, like [singing](https://www.youtube.com/user/HarvardVoiceLab).
+I previously worked at [Facing History and Ourselves](https://www.facinghistory.org), and am still interested in teaching about and preventing atrocities. When not researching or teaching, I do other things, like [singing](https://www.youtube.com/user/HarvardVoiceLab).
