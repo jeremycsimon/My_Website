@@ -74,4 +74,4 @@ user_groups:
 
 I am a fifth-year PhD student in Psychology at Brandeis University. I work with Dr. Jennifer Gutsell in the [Social Interaction and Motivation lab](https://www.brandeis.edu/psychology/gutsell/), where I use a variety of methods including electroencephalography (EEG), traditional psychological questionnaires, implicit measures, and structural and hierarchical modeling to study group biases and dehumanzation.  
   
-I previously worked at [Facing History and Ourselves](https://www.facinghistory.org), and am still interested in teaching about and preventing atrocities. When not researching or teaching, I do other things, like [singing](https://www.youtube.com/user/HarvardVoiceLab).
+I previously worked at [Facing History and Ourselves](https://www.facinghistory.org), and am still dedicated to teaching about and trying to prevent humanity's worst behaviors. When not researching or teaching, I do other things, like [singing](https://www.youtube.com/user/HarvardVoiceLab).
