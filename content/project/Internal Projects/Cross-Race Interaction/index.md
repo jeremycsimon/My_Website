@@ -30,7 +30,7 @@ image:
 slides: ""
 ---
 
-Status: nearing the end of data collection!
+Status: Nearing the end of data collection!
 
 We're studying whether interactions between strangers differ as a function of race. By comparing pairs of White participants with White/Black pairs we can investigate the effects of interracial interactions on a number of measures of understanding and empathy. Our dependent variables include action coordination, empathic accuracy, and dehumanization, plus EEG measures including mu suppression and neural synchrony. We hope to test whether racial differences affect empathy and communication, and whether these differences are reflected in the brain.
 

@@ -30,6 +30,6 @@ image:
 slides: ""
 ---
 
-Status: planning follow-up. Look for my poster at SPSP 2020!
+Status: Planning follow-up. Look for my poster at SPSP 2020!
 
-It's well established that people often see other groups as less human than their own. But this has hardly been tested using individual members of other groups. Our question is whether group causes of dehumanization carry over to individuals, and whether they interact with other potential sources of dehumanization. We've found that simple trait descriptions can make our targets less human, and that this predicts less attribution of pain (above), greater punishment, and more painful medical decision-making. However, targets' race has no effect. We are planning to follow up to learn more about how individual and group sources of dehumanization interact.
+It's well established that people often see other groups as less human than their own. But this has rarely been tested using individual targets. Our question is whether dehumanization on the basis of group carries over to individuals, and wwhat happens when there are additional, independent sources of dehumanization. We've found that we can make targets seem less human with simple trait descriptions, and that this predicts lesser attribution of pain (above), greater punishment, and more painful medical decision-making. However, targets' race has no effect, suggesting that group-based sources of dehumanization may be less salient in some situations. We are planning to follow up to learn more about how individual and group sources of dehumanization interact.
