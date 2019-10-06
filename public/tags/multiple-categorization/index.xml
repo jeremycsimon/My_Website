@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multiple Categorization | Jeremy C. Simon</title>
-    <link>/tags/multiple-categorization/</link>
-      <atom:link href="/tags/multiple-categorization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jeremycsimon.xyz/tags/multiple-categorization/</link>
+      <atom:link href="https://jeremycsimon.xyz/tags/multiple-categorization/index.xml" rel="self" type="application/rss+xml" />
     <description>Multiple Categorization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://jeremycsimon.xyz/img/icon-192.png</url>
       <title>Multiple Categorization</title>
-      <link>/tags/multiple-categorization/</link>
+      <link>https://jeremycsimon.xyz/tags/multiple-categorization/</link>
     </image>
     
     <item>
       <title>Multiple Categorization</title>
-      <link>/project/internal-projects/multiple-categorization/</link>
+      <link>https://jeremycsimon.xyz/project/internal-projects/multiple-categorization/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/internal-projects/multiple-categorization/</guid>
+      <guid>https://jeremycsimon.xyz/project/internal-projects/multiple-categorization/</guid>
       <description>&lt;p&gt;Status: Manuscript in preparation.&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;ve been using Representational Similarity Analysis (RSA) on EEG data to compare models of group categorization. Participants viewed videos of minimal in-group and out-group members who were also racial in-group or out-group members. Models can distinguish target race or target minmal group membership for nearly the entire video presentations. Our larger research question, however, is how multiply categorized targets are represented. Are we right to assume that double in-group members (same race, same minimal group) are most different from double out-group members (other race, other minimal group)? Which partial in-group members (same on only one dimension) are represented more similarly to double in-group members? Thus far we have not been able to differentiate models preferring race from models preferring group, but analyses are ongoing.&lt;/p&gt;
