@@ -5,7 +5,7 @@
     <link>https://jeremycsimon.xyz/authors/</link>
       <atom:link href="https://jeremycsimon.xyz/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremycsimon.xyz/img/icon-192.png</url>
       <title>Authors</title>
@@ -25,6 +25,14 @@
       <link>https://jeremycsimon.xyz/authors/jeremy-c.-simon/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jeremycsimon.xyz/authors/jeremy-c.-simon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadya Styczynski*</title>
+      <link>https://jeremycsimon.xyz/authors/nadya-styczynski/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeremycsimon.xyz/authors/nadya-styczynski/</guid>
       <description></description>
     </item>
     
