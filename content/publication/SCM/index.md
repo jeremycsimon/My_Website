@@ -31,8 +31,8 @@ featured: false
 
 links:
 - name: "DOI"
-  url: ''
-url_pdf: ''
+  url: 'https://doi.org/10.3758/s13415-019-00767-3'
+url_pdf: files/cabn.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
