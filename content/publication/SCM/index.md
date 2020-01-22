@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Group Processes & Intergroup Relations*"
-publication_short: "*GPIR*"
+publication: "*Cognitive, Affective, & Behavioral Neuroscience*"
+publication_short: "*CABN*"
 
 abstract: Perceptions of the primary social dimensions, warmth and competence, determine how we view and relate to social targets.  To discern how warmth and competence might affect neural processing and its downstream behavioral consequences, we manipulated impressions of targets’ warmth and competence and then measured intentions towards the target and motor resonance, a neural process previously linked to social processing. While EEG was recorded, 66 participants watched videos of people performing a simple motor activity and completed a measure of hypothetical intentions to help or harm.  Both perceptions of warmth and competence predicted an increase in helping intentions.  Moreover, participants showed the least motor resonance with high competence-medium warmth targets, suggesting the importance of both social dimensions in driving neural simulation of targets’ actions.  Perceptions of a person’s warmth and competence can thus affect not only how others might intend to treat them, but also how they might process their basic experiences on a neural level.
 
