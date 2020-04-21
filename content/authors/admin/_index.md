@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Social Psychology
+role: Visiting Assistant Professor, Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Brandeis University
+- name: Williams College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,7 +24,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Brandeis University
-    year: expected 2020
+    year: 2020
   - course: Masters in Psychology
     institution: Brandeis University
     year: 2017
@@ -72,6 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I am a fifth-year PhD student in Psychology at Brandeis University. I work with Dr. Jennifer Gutsell in the [Social Interaction and Motivation lab](https://www.brandeis.edu/psychology/gutsell/), where I use a variety of methods including electroencephalography (EEG), traditional psychological questionnaires, implicit measures, and structural and hierarchical modeling to study group biases and dehumanization.  
+I am a Visiting Assistant Professor of Psychology at Williams College. 
+  
+I got my PhD at Brandeis University, where I worked with Dr. Jennifer Gutsell in the [Social Interaction and Motivation lab](https://www.brandeis.edu/psychology/gutsell/), and used a variety of methods including electroencephalography (EEG), traditional psychological questionnaires, implicit measures, and structural and hierarchical modeling to study group biases and dehumanization.  
   
 I previously worked at [Facing History and Ourselves](https://www.facinghistory.org), and am still dedicated to teaching about and trying to prevent humanity's worst behaviors. When not researching or teaching, I do other things, like [singing](https://www.youtube.com/user/HarvardVoiceLab).
