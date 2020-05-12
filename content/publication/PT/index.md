@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "DOI"
   url: ''
-url_pdf: 
+url_pdf: files/pt.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
