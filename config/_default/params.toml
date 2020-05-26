@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "220 Volen Center", city = "Brandeis University", region = "Waltham", postcode = "MA", country = "02453", country_code = "USA"}
+address = {street = "Psychology Offices and Labs Rm 139", city = "25 Stetson Ct.", region = "Williamstown", postcode = "MA", country = "01267", country_code = "USA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
