@@ -31,7 +31,7 @@ featured: false
 
 links:
 - name: "DOI"
-  url: ''
+  url: https://doi.org/10.1016/j.cortex.2020.04.037
 url_pdf: files/pt.pdf
 url_code: ''
 url_dataset: ''
