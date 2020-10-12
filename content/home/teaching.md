@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Visiting Assistant Professor"
+  organization_url = ""
+  title = "Experimentation and Statistics"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-02-15"
+  date_end = "2021-05-19"
+  description = "Will be teaching combined Research Methods and Statistics course at Williams College."
+
+
+[[item]]
+  organization = "Visiting Assistant Professor"
+  organization_url = ""
+  title = "Psychology of Prejudice"
+  url = "files/syllabus2.pdf"
+  certificate_url = ""
+  date_start = "2020-09-11"
+  date_end = "2020-12-19"
+  description = "Re-designed Psychology of Prejudice as an empirical lab course at Williams College. Click [here](files/syllabus2.pdf) for the syllabus."
+
+[[item]]
   organization = "Co-Instructor"
   organization_url = ""
   title = "Research Methods in Psychology"
