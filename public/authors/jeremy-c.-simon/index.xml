@@ -5,7 +5,7 @@
     <link>https://jeremycsimon.xyz/authors/jeremy-c.-simon/</link>
       <atom:link href="https://jeremycsimon.xyz/authors/jeremy-c.-simon/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy C. Simon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremycsimon.xyz/img/icon-192.png</url>
       <title>Jeremy C. Simon</title>
@@ -13,20 +13,37 @@
     </image>
     
     <item>
-      <title>Effects of minimal grouping on implicit prejudice, infrahumanization, and neural processing despite orthogonal social categorizations</title>
-      <link>https://jeremycsimon.xyz/publication/gm/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/publication/gm/</guid>
-      <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/fx86p/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Recognizing humanity: Dehumanization predicts neural mirroring and empathic accuracy in face-to-face interactions.</title>
+      <link>https://jeremycsimon.xyz/publication/ch2/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeremycsimon.xyz/publication/ch2/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Perspective Taking Reduces Group Biases in Sensorimotor Resonance</title>
       <link>https://jeremycsimon.xyz/publication/pt/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://jeremycsimon.xyz/publication/pt/</guid>
       <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/xeak9/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clarifying the relationship between trait empathy and action-based resonance indexed by EEG mu-rhythm suppression.</title>
+      <link>https://jeremycsimon.xyz/publication/iri/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeremycsimon.xyz/publication/iri/</guid>
+      <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/95zf8/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of minimal grouping on implicit prejudice, infrahumanization, and neural processing despite orthogonal social categorizations</title>
+      <link>https://jeremycsimon.xyz/publication/gm/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeremycsimon.xyz/publication/gm/</guid>
+      <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/fx86p/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -36,24 +53,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jeremycsimon.xyz/publication/scm/</guid>
       <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/kucjd/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clarifying the relationship between trait empathy and action-based resonance indexed by EEG mu-rhythm suppression.</title>
-      <link>https://jeremycsimon.xyz/publication/iri/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/publication/iri/</guid>
-      <description>&lt;p&gt;Data and code can be found on the &lt;a href=&#34;https://osf.io/95zf8/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Recognizing humanity: Dehumanization predicts neural mirroring and empathic accuracy in face-to-face interactions.</title>
-      <link>https://jeremycsimon.xyz/publication/ch2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/publication/ch2/</guid>
-      <description>&lt;p&gt;#Data and code can be found on the &lt;a href=&#34;https://osf.io/95zf8/&#34; target=&#34;_blank&#34;&gt;OSF page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

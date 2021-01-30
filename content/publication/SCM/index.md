@@ -1,10 +1,10 @@
 ---
-title: "Social Perceptions of Warmth and Competence Influence Behavioral Intentions and Neural Processing"
+title: "Social perceptions of warmth and competence influence behavioral intentions and neural processing"
 authors:
 - Jeremy C. Simon*
 - Nadya Styczynski*
 - Jennifer N. Gutsell
-date: "2020-2-01"
+date: "2020-02-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

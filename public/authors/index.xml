@@ -5,7 +5,7 @@
     <link>https://jeremycsimon.xyz/authors/</link>
       <atom:link href="https://jeremycsimon.xyz/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremycsimon.xyz/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Jennifer N. Gutsell</title>
       <link>https://jeremycsimon.xyz/authors/jennifer-n.-gutsell/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://jeremycsimon.xyz/authors/jennifer-n.-gutsell/</guid>
       <description></description>
     </item>
@@ -23,8 +23,40 @@
     <item>
       <title>Jeremy C. Simon</title>
       <link>https://jeremycsimon.xyz/authors/jeremy-c.-simon/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://jeremycsimon.xyz/authors/jeremy-c.-simon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yanyi Jiang</title>
+      <link>https://jeremycsimon.xyz/authors/yanyi-jiang/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeremycsimon.xyz/authors/yanyi-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alek Kopulsky</title>
+      <link>https://jeremycsimon.xyz/authors/alek-kopulsky/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeremycsimon.xyz/authors/alek-kopulsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristiana M. Hubley</title>
+      <link>https://jeremycsimon.xyz/authors/kristiana-m.-hubley/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeremycsimon.xyz/authors/kristiana-m.-hubley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marissa A. DiGirolamo</title>
+      <link>https://jeremycsimon.xyz/authors/marissa-a.-digirolamo/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeremycsimon.xyz/authors/marissa-a.-digirolamo/</guid>
       <description></description>
     </item>
     
@@ -33,14 +65,6 @@
       <link>https://jeremycsimon.xyz/authors/nadya-styczynski/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jeremycsimon.xyz/authors/nadya-styczynski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yanyi Jiang</title>
-      <link>https://jeremycsimon.xyz/authors/yanyi-jiang/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/authors/yanyi-jiang/</guid>
       <description></description>
     </item>
     
@@ -55,30 +79,6 @@
 
 &lt;p&gt;I previously worked at &lt;a href=&#34;https://www.facinghistory.org&#34; target=&#34;_blank&#34;&gt;Facing History and Ourselves&lt;/a&gt;, and am still dedicated to teaching about and trying to prevent humanity&amp;rsquo;s worst behaviors. When not researching or teaching, I do other things, like &lt;a href=&#34;https://www.youtube.com/user/HarvardVoiceLab&#34; target=&#34;_blank&#34;&gt;singing&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Alek Kopulsky</title>
-      <link>https://jeremycsimon.xyz/authors/alek-kopulsky/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/authors/alek-kopulsky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kristiana M. Hubley</title>
-      <link>https://jeremycsimon.xyz/authors/kristiana-m.-hubley/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/authors/kristiana-m.-hubley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marissa A. DiGirolamo</title>
-      <link>https://jeremycsimon.xyz/authors/marissa-a.-digirolamo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jeremycsimon.xyz/authors/marissa-a.-digirolamo/</guid>
-      <description></description>
     </item>
     
   </channel>
