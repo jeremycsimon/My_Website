@@ -1,5 +1,5 @@
 ---
-title: "Perspective Taking Reduces Group Biases in Sensorimotor Resonance"
+title: "Perspective taking reduces group biases in sensorimotor resonance"
 authors:
 - Jennifer N. Gutsell
 - Jeremy C. Simon
