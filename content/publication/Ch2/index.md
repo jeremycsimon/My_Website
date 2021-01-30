@@ -4,7 +4,7 @@ title: "Recognizing humanity: Dehumanization predicts neural mirroring and
 authors:
 - Jeremy C. Simon
 - Jennifer N. Gutsell
-date: ""
+date: "2021-01-30"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -65,4 +65,4 @@ slides: example
 
 
 
-#Data and code can be found on the [OSF page](https://osf.io/95zf8/).
+

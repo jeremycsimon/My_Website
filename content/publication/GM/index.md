@@ -3,7 +3,7 @@ title: "Effects of minimal grouping on implicit prejudice, infrahumanization, an
 authors:
 - Jeremy C. Simon
 - Jennifer N. Gutsell
-date: ""
+date: "2019-05-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
