@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Assistant Professor, Psychology
+role: Senior Research and Evaluation Data Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Williams College
+- name: Museum of Science, Boston
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,8 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Visiting Assistant Professor of Psychology at Williams College. 
+I am a fellow with the [Strategic Data Project](https://sdp.cepr.harvard.edu/home) based at the Center for Education Policy Research at Harvard University. I work for EiE, the curriculum department of the Musuem of Science, Boston, evaluating our engineering activities for children.
   
-I got my PhD at Brandeis University, where I worked with Dr. Jennifer Gutsell in the [Social Interaction and Motivation lab](https://www.brandeis.edu/psychology/gutsell/), and used a variety of methods including electroencephalography (EEG), traditional psychological questionnaires, implicit measures, and structural and hierarchical modeling to study group biases and dehumanization.  
+I got my PhD at Brandeis University, where I worked with Dr. Jennifer Gutsell in the [Social Interaction and Motivation lab](https://www.brandeis.edu/psychology/gutsell/), and used a variety of methods including electroencephalography (EEG), traditional psychological questionnaires, implicit measures, and structural and hierarchical modeling to study group biases and dehumanization.
   
-I previously worked at [Facing History and Ourselves](https://www.facinghistory.org), and am still dedicated to teaching about and trying to prevent humanity's worst behaviors. When not researching or teaching, I do other things, like [singing](https://www.youtube.com/user/HarvardVoiceLab).
+I previously taught in the Psychology department at Williams College, and before graduate school I worked at [Facing History and Ourselves](https://www.facinghistory.org). I remain dedicated to teaching about and trying to prevent humanity's worst behaviors. When not researching or teaching, I do other things, like [singing](https://www.youtube.com/user/HarvardVoiceLab).
